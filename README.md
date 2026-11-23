@@ -53,7 +53,7 @@ Pastikan **Python 3.10+** sudah terinstal dan terdaftar di *Environment Variable
 
 **1. Clone repository ini:**
 ```bash
-git clone [https://github.com/ZzDevl/Office-Deployment-GUI.git](https://github.com/ZzDevl/Office-Deployment-GUI.git)
+git clone https://github.com/ZzDevl/Office-Deployment-GUI.git
 ```
 
 **2. Masuk ke direktori proyek:**
